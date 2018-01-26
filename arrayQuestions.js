@@ -39,7 +39,6 @@ if (response === answer) {
   }
 }
 
-
 html = "You got " + correctAnswers + " questions right.";
 html += "<h1>You got these right</h1>";
 html += questionLists(correct);
